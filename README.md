@@ -1,1 +1,3 @@
-"# seg2505-git-demonstration" 
+# seg2505-git-demonstration
+
+Hello world.
